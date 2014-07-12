@@ -1,28 +1,5 @@
-== README
+pharmShop
+=========
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+PharmShop is a prototype of a network of pharmacies where inventory of drugs can be purchased and exhanged between stores.
+Online prescription is also a planned feature. 
